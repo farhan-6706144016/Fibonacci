@@ -32,7 +32,7 @@ public class fibonaci {
         for(int i = 0; i<deret; i++){
             System.out.print(bil[i]+" ");
             bil[i + 2] = bil[i] + bil[i + 1];
-        }
+        } //saya lupa kak
     }
     
 }
