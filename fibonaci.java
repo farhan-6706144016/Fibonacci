@@ -18,7 +18,7 @@ public class fibonaci {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int[] bil = new int[100];
+        int[] bil = new int[100]; //DI EDIT BHAGAS
         bil[0] = 0;
         bil[1] = 1;
         int deret;
